@@ -70,7 +70,7 @@ Our role in the ecosystem is two-fold. First, we finance development of the netw
 
 Second, we work to source demand for the network. It’s slower to upload data to the network than to farm, and it requires more development time. You have to integrate the network with an app, and then manage your own infrastructure to issue audits. We can help people discover and use those tools.  Applications need reliability, and companies need a service-level agreement. We can provide those as a company. Keeping demand high is essential to the security and viability of the network. After all, if nobody’s buying space there won’t be any farmers.
 
-###Be The Cloud
+####Be The Cloud
 
 Storj is more than just a company, we’re a community. We’re a group of enthusiasts, developers, and farmers who are excited about building and being part of the future of cloud storage. Our vision doesn’t stop at the office door. Thousands of people participate in our community chat; the codebase has dozens of unpaid contributors. People show up and help us because they share our passion and our goals.
 

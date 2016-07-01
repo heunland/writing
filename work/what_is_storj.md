@@ -10,7 +10,7 @@ Storj’s core technology is an enforceable, peer-to-peer, storage contract. It�
 
 ####Contracts & Audits
 
-A contract has a set duration. Over this time, the renter periodically checks that the farmer is still available. The farmer responds with a cryptographic proof that it still has the file. The renter pays the farmer for each proofit receives and verifies. This process of challenge -> proof -> payment is referred to as an “audit,” as the renter is auditing the farmer’s storage. At the end of the contract period, the farmer and renter are free to renegotiate or end the relationship.
+A contract has a set duration. Over this time, the renter periodically checks that the farmer is still available. The farmer responds with a cryptographic proof that it still has the file. The renter pays the farmer for each proof it receives and verifies. This process of challenge -> proof -> payment is referred to as an “audit,” as the renter is auditing the farmer’s storage. At the end of the contract period, the farmer and renter are free to renegotiate or end the relationship.
  
 While the core technology allows for any type of payment, some types are better suited than others. Traditional payment systems, like ACH, are poorly suited to paying on a per-audit basis. They’re slow, hard to verify, and come with expensive fees. The ideal payment method for the Storj Protocol is a crypto-currency micropayment channel. It allows for extremely small payments that are immediately verifiable and secure, with minimal fees. This means that payments and audits can be paired as closely as possible.
 

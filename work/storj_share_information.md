@@ -9,6 +9,6 @@ Here's a list of some things that other people can learn about your computer:
 * **Network information** - When you communicate with another node, it can record how long it takes your node to respond, and test your internet connection's bandwidth.
 * **Node ID** - This is a pseudonym for your computer. It's a long group of random numbers that can be used to identify a node on the network, like a phone number. You need to send this out so that other nodes can identify and contact your node.
 * **Payment details** - Your computer will share a payment address, so that other nodes can pay it directly for storage space.
-* **Disk space information** - In order to negotiate storage contracts, your computer has to let other nodes know how much it can store.
+* **Disk space information** - In order to negotiate storage contracts, your computer has to let other nodes know some information about how much it can store.
 
 If you are not comfortable sharing this information, we recommend that you do not run the Storj Share client, or take other measures to protect yourself. If you have any questions about your privacy on the network, please email us at [hello@storj.io](mailto:hello@storj.io).

@@ -76,4 +76,4 @@ Storj is bigger than just a company – we’re a community! We’re a group of 
 
 Our community provides time, talent, ideas, and resources that we could never come up with on our own. We have community members speaking at conferences for us around the world, devoting a dozen servers to stress test the network, constantly answering questions, and helping others in our community chat. Community feedback has caught some of our strangest bugs. Our founders and several of our employees joined the community first, and the company later. The community has been critical to everything we’ve achieved.
 
-As we move together towards a product release, we’re excited to spend more time and resources interacting with and supporting our community. Together we can build, teach, learn, and change the future of object storage. Be the cloud!
+As we move together towards a full release, we’re excited to spend more time and resources interacting with and supporting our community. Together we can build, teach, learn, and change the future of object storage. Be the cloud!

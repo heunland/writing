@@ -1,4 +1,7 @@
 TODO: update links.
+TODO: intro paragraph about what Storj is
+TODO: more discussion of results
+
 
 Our farmers store a lot of files, on a wide variety of hardware. Storj Share runs on everything from Raspberry Pis, to blades in server farms. In addition to the technical challenges of building and maintaining a distributed network, it turns out that writing, reading, and managing thousands of files on the same device presents some interesting problems in itself. 
 

@@ -32,4 +32,4 @@ As a result, in our initial tests KFS performs faster for all tested operations 
 
 We're in the process of rolling KFS out to our farmers. In the future we hope to update the performance information with data from thousands of devices running it in the wild.
 
-As with all our software, KFS is available [on Github](https://github.com/storj/kfs) under the GPL. Additional documentation is available [here](https://github.com/storj/kfs). You can contact the Storj team there, or via hello@storj.io.
+As with all our software, KFS is available [on Github](https://github.com/storj/kfs) under the GPL. Additional documentation is available [here](http://storj.github.io/kfs). You can contact the Storj team there, or via hello@storj.io.
